@@ -1,0 +1,14 @@
+READ ME
+
+project summary: poster
+
+project code structure:
+
+1. data cleaning + text extraction:
+TaobaoLDA_BerTopic.ipynb
+TaobaoProducts_dataCleaning+LDA+POSTagging+TF_idf.ipynb
+
+2. image classification 
+
+3. price analysis + search engine
+Search Engine output (recommend functional products)
