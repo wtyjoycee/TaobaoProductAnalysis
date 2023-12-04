@@ -1,5 +1,3 @@
-READ ME
-
 project summary: poster + methodDiagram
 
 project code structure:
@@ -9,6 +7,8 @@ TaobaoLDA_BerTopic.ipynb
 TaobaoProducts_dataCleaning+LDA+POSTagging+TF_idf.ipynb
 
 2. image classification 
+Transfer images into image array.ipynb
+Image Analysis.py
 
 3. price analysis + search engine
 Search Engine output (recommend functional products)
